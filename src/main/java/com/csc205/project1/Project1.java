@@ -11,7 +11,7 @@ public class Project1 {
     public static void main(String[] args) {
 
         System.out.println("Project 1 : Point Tester\n");
-
+//hello
         Point a = new Point(3.0, 1.0);
         Point b = new Point();
         b.setPoint(6.0, 5.0);
